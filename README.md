@@ -4,7 +4,8 @@ I made this project to practice my React skills a bit more. The page was made in
 
 View the website here: [Live Site](https://crystalym.github.io/Restaurant/)
 
-![Screenshot (13)](https://user-images.githubusercontent.com/100612086/164009986-cbf379a0-ea69-4e22-8b12-6ba217a70fb6.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/100612086/165794865-2469377a-7272-4329-9da1-736598488d3b.png)
+
 
 What I practised:
 
